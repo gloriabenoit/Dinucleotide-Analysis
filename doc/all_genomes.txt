@@ -1,0 +1,48 @@
+653 Ko
+Streptococcus pneumoniae
+https://ftp.ensemblgenomes.ebi.ac.uk/pub/bacteria/release-56/fasta/bacteria_0_collection/streptococcus_pneumoniae_tigr4_gca_000006885/dna/Streptococcus_pneumoniae_tigr4_gca_000006885.ASM688v1.dna.toplevel.fa.gz
+
+1 Mo
+Escherichia coli
+http://ftp.ensemblgenomes.org/pub/bacteria/release-52/fasta/bacteria_26_collection/escherichia_coli_w_gca_000184185/dna/Escherichia_coli_w_gca_000184185.ASM18418v1.dna.toplevel.fa.gz
+
+3 Mo
+Saccharomyces cerevisiae
+http://ftp.ensembl.org/pub/release-105/fasta/saccharomyces_cerevisiae/dna/Saccharomyces_cerevisiae.R64-1-1.dna.toplevel.fa.gz
+
+29 Mo
+Caenorhabditis elegans
+http://ftp.ensembl.org/pub/release-105/fasta/caenorhabditis_elegans/dna/Caenorhabditis_elegans.WBcel235.dna.toplevel.fa.gz
+
+35 Mo
+Arabidopsis thaliana
+http://ftp.ensemblgenomes.org/pub/plants/release-52/fasta/arabidopsis_thaliana/dna/Arabidopsis_thaliana.TAIR10.dna.toplevel.fa.gz
+
+42 Mo
+Drosophila melanogaster
+http://ftp.ensembl.org/pub/release-105/fasta/drosophila_melanogaster/dna/Drosophila_melanogaster.BDGP6.32.dna.toplevel.fa.gz
+
+119 Mo
+Asterias rubens
+http://ftp.ensemblgenomes.org/pub/metazoa/release-56/fasta/asterias_rubens_gca902459465v3/dna/Asterias_rubens_gca902459465v3.eAstRub1.3.dna.toplevel.fa.gz
+
+186 Mo
+Petromyzon marinus
+https://ftp.ensembl.org/pub/release-109/fasta/petromyzon_marinus/dna/Petromyzon_marinus.Pmarinus_7.0.dna.toplevel.fa.gz
+
+282 Mo
+Spea bombifrons
+https://ftp.ncbi.nlm.nih.gov/genomes/all/annotation_releases/233779/GCF_027358695.1-RS_2023_03/GCF_027358695.1_aSpeBom1.2.pri_genomic.fna.gz 
+
+302 Mo
+Pavo cristatus
+https://ftp.ensembl.org/pub/release-109/fasta/pavo_cristatus/dna/Pavo_cristatus.AIIM_Pcri_1.0.dna.toplevel.fa.gz
+
+441 Mo
+Platynereis dumerilii
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/026/936/325/GCA_026936325.1_EMBL_pdum_1.0/GCA_026936325.1_EMBL_pdum_1.0_genomic.fna.gz
+
+787 Mo
+Mus musculus
+http://ftp.ensembl.org/pub/release-105/fasta/mus_musculus/dna/Mus_musculus.GRCm39.dna.toplevel.fa.gz
+

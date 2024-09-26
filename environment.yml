@@ -1,0 +1,11 @@
+name: dinucl-freq
+channels:
+    - conda-forge
+    - bioconda
+    - nodefaults
+dependencies:
+    - python
+    - numpy
+    - matplotlib
+    - biopython
+    - scipy
